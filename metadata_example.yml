@@ -1,0 +1,22 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: example_dataset_v1
+  language: eng
+  dataseturi: [https://example.com/dataset/](https://example.com/dataset/)
+identification:
+  title: Example Spatial Dataset V1
+  abstract: A comprehensive spatial dataset aggregated to an H3 Hexagonal Grid.
+  keywords:
+    default:
+      keywords:
+        - spatial
+        - H3
+        - open data
+  topiccategory:
+    - geoscientificInformation
+contact:
+  pointOfContact:
+    organization: Your Organization
+    individualname: Data Manager
+    email: data@example.com
